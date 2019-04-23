@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is Your Interest Rate Calculated?
-date: 2019-04-23 14:58:52
+date: 2019-04-22 14:58:00
 tags:
 excerpt: Interest rates are different for every buyer. Here’s how they are determined.
 enclosure:
