@@ -22,6 +22,6 @@ When someone comes to our office to get pre-qualified for a home loan, we look a
 
 Different loan programs have different criteria; **some allow for lower credit scores down to 580, and some require higher credit scores up to 620 or higher.**
 
-**Once we receive your loan application, your credit, income, assets, and debt ratio will allow us to determine** the loan program that most appropriate for your situation. Then we’ll be able to look at interest rates, down payments, and what your monthly payment would look like.
+**Once we receive your loan application, your credit, income, assets, and debt ratio will allow us to determine** the loan program that's most appropriate for your situation. Then we’ll be able to look at interest rates, down payments, and what your monthly payment would look like.
 
 If you have any questions or are interested in getting pre-qualified for a home loan, don’t hesitate to reach out to me. I’d love to answer your questions and help you get started on the path to becoming a homeowner.<br>&nbsp;
