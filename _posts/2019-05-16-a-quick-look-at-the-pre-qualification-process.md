@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/danielle-damianov-summary-of-the-pre-qualification-process-youtube.jpg
+  /uploads/new-danielle-damianov-summary-of-the-pre-qualification-process2-new.jpg
 youtube_code: 'https://youtu.be/7W-uvReRk84'
 ---
 
