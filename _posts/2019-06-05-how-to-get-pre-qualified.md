@@ -1,9 +1,8 @@
 ---
 layout: post
 title: How to Get Pre-Qualified
-date: 2019-06-06 18:49:09
+date: 2019-06-05 18:49:00
 tags:
-  - Home Mortgage Tips
 excerpt: >-
   What are the steps to becoming pre-qualified to purchase a home? I’ll lay them
   out for you right here.
