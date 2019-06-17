@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do I Really Need 20% Down to Buy a Home?
-date: 2019-06-17 15:02:07
+date: 2019-06-16 15:02:00
 tags:
   - Real Estate
   - Home Buyer Tips
