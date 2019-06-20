@@ -26,6 +26,6 @@ I hear from potential homebuyers all the time, and the biggest question I hear i
 
 {% include pullquote.html %}
 
-Another thing we offer is a program with a 10% to 15% down payment for 2nd-home or investment buyers.
+Another thing we offer is a program with a 10% to 15% down payment for second home or investment buyers.
 
 **No matter what your home buying goals are, you certainly don’t need 20% to make a purchase.** If you have any questions for me about specific loan programs or about mortgages in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
