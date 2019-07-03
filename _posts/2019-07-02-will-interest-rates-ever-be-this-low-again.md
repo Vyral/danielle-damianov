@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will Interest Rates Ever Be This Low Again?
-date: 2019-07-03 16:51:16
+date: 2019-07-02 16:51:00
 tags:
   - Real Estate
 excerpt: Interest rates are low and the time to buy or refinance is right now.
