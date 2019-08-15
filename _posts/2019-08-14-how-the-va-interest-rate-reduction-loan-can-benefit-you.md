@@ -4,7 +4,6 @@ title: How the VA Interest Rate Reduction Loan Can Benefit You
 date: 2019-08-14 00:00:00
 tags:
   - Real Estate
-  - Mortgage
 excerpt: >-
   If you’re a veteran and you have a home loan, you’ll definitely want to take
   advantage of the VA interest rate...
