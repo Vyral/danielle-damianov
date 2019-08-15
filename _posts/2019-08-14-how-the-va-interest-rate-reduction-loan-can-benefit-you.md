@@ -5,8 +5,9 @@ date: 2019-08-14 00:00:00
 tags:
   - Real Estate
 excerpt: >-
-  If you’re a veteran and you have a home loan, you’ll definitely want to take
-  advantage of the VA interest rate...
+  The VA interest rate reduction loan is a fantastic way for veterans to make
+  their monthly living expenses more affordable. Let's discuss all of its
+  benefits today.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
