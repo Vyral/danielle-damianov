@@ -11,7 +11,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   Once you’re clear to close, your loan will move to the closing department and
-  they’ll work with the title company to arrange on a time for you to officially
+  they’ll work with the title company to arrange a time for you to officially
   close on your new home.
 enclosure_type: video/mp4
 enclosure_time:
