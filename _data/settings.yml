@@ -46,7 +46,7 @@ client:
   url: 'https://rate.com/loan-expert/danielledamianov'
 CTAs:
   first_CTA_text: Apply Now
-  first_CTA_URL: 'https://app.guaranteedrate.com/#/start'
+  first_CTA_URL: 'https://www.rate.com/loan-expert/danielledamianov'
   second_CTA_text: Today's Rates
   second_CTA_URL: 'https://www.guaranteedrate.com/mortgage-rates'
 sidebar_CTA:
