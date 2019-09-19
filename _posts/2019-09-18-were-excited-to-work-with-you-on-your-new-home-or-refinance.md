@@ -3,7 +3,6 @@ layout: post
 title: We’re excited to work with you on your new home or refinance
 date: 2019-09-18 00:00:00
 tags:
-  - Mortgage
   - Real Estate
 excerpt: >-
   Thank you so much for your application! My team and I are excited to work with
