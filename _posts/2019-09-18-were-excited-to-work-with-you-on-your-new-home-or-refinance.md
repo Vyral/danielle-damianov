@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We’re excited to work with you on your new home or refinance
+title: We’re Excited to Work with You on Your New Home or Refinance
 date: 2019-09-18 00:00:00
 tags:
   - Real Estate
