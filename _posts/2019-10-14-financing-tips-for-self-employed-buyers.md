@@ -26,6 +26,6 @@ There are so many self-employed borrowers out there that aren’t able to buy a 
 
 If this is something you're struggling with, I have a program for you. **We can get you hooked up with a business or personal bank statement program where you will put 10% down on the home all the way up to $3 million.**&nbsp;
 
-This loan has no monthly mortgage insurance and can be used for an owner-occupied home, a second home, or an investment property purchase. If you have a short sale or foreclosure just a few years ago, this program can help you, too. **It’s a great program with a lot of flexibility.**&nbsp;
+This loan has no monthly mortgage insurance and can be used for an owner-occupied home, a second home, or an investment property purchase. If you had a short sale or foreclosure just a few years ago, this program can help you, too. **It’s a great program with a lot of flexibility.**&nbsp;
 
 If you have any questions for me about this loan or anything else related to financing your next home purchase, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
