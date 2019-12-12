@@ -9,7 +9,8 @@ excerpt: >-
   Staging is a powerful way to sell your home faster and for more money, and
   we’re going to demonstrate what a difference this process can make today by
   showing you a few before-and-after photos.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Danielle+Danianov/2019/December+-+Danielle+Damianov/The+Power+of+Staging-+Before+and+After.mp4
 pullquote: >-
   Staging brings out a space’s full potential, shows buyers what kind of
   lifestyle they could create there, and draws out the kind of emotional
